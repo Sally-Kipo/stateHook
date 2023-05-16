@@ -1,0 +1,18 @@
+.counter-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 50px;
+
+}
+.para {
+    font-size: 24px;
+    
+}
+.counter {
+  
+    box-shadow: 0 8px 16px 0 rgba(192, 95, 205, 0.2), 0 6px 20px 0 rgba(226, 76, 219, 0.19);
+    padding: 15px 32px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
